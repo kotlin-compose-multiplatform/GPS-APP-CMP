@@ -63,8 +63,8 @@ Click the image or [here](https://drive.google.com/file/d/1m2QY3V9-CdBa9eMDgXSvI
 
 ### Step 1: Clone the Project
 ```bash
-git clone https://github.com/yourusername/gps-tracking-system.git
-cd gps-tracking-system
+git clone https://github.com/kotlin-compose-multiplatform/GPS-APP-CMP
+cd GPS-APP-CMP
 ```
 
 
