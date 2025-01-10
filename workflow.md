@@ -1,0 +1,24 @@
+# To do
+- [ ] ! add google maps support for iOS
+- [X] add pdf support for iOS
+- [X] pdf share iOS
+- [X] link share iOS
+- [X] add 3 languages 
+- [ ] geofences status
+- [X] unit detail more button
+- [X] search items
+- [ ] select units functionality
+- [X] ! check update api
+- [X] ! logout fix loading
+- [X] ! Feedback page
+- [X] Unit view settings page
+- [X] Monitoring list check ignition on
+- [ ] Unit detail history parking time plus yesterday
+- [X] History date button trim month name
+- [X] select units screen check/uncheck
+- [ ] Add firebase crashlytics
+- [ ] Kartada marşrutlar jaýlaryň üstünden geçýär diýýär
+- [ ] Maglumatlar şol ýerde wagty bilen update bolanok diýýär. Meselem irden maşyn otlandy we gitdi, boz bolsa dony göremzok diýýär. Soň, belli bir wagt geçen soň görkezýär diýýär
+- [X] Indi update etseň wersiýasyny hem çalyşaý, bolmasa käbirleri app update edenik we köne problemalary agzaýarlar.
+- [X] Düýnkini görýän we şu günkä geçirsem update edenok kartany
+- [X] Käbirlerinde, obýektiň maglumatlarynda telefon nomer bar, Şony ýüzüne basyp kopiýa eder ýaly edäý

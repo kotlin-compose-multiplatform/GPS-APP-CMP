@@ -1,0 +1,27 @@
+[
+  {
+    "moduleId": "io.ktor:ktor-utils:2.3.12",
+    "file": "/Users/sanlyozgerish/AndroidStudioProjects/WialonLocal/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-utils-2.3.12-iosMain-cinterop/io.ktor_ktor-utils-cinterop-threadUtils-TE4abA.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "io.github.kevinnzou:compose-webview-multiplatform:1.9.40-alpha01",
+    "file": "/Users/sanlyozgerish/AndroidStudioProjects/WialonLocal/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.github.kevinnzou-compose-webview-multiplatform-1.9.40-alpha01-iosMain-cinterop/compose-webview-multiplatform_webview-cinterop-observer-hsOYJA.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "org.jetbrains.kotlinx:atomicfu:0.23.2",
+    "file": "/Users/sanlyozgerish/AndroidStudioProjects/WialonLocal/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/org.jetbrains.kotlinx-atomicfu-0.23.2-nativeMain-cinterop/org.jetbrains.kotlinx_atomicfu-cinterop-interop-yBS35w.klib",
+    "sourceSetName": "nativeMain"
+  },
+  {
+    "moduleId": "org.jetbrains.compose.ui:ui-uikit:1.7.0-beta02",
+    "file": "/Users/sanlyozgerish/AndroidStudioProjects/WialonLocal/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/org.jetbrains.compose.ui-ui-uikit-1.7.0-beta02-uikitMain-cinterop/org.jetbrains.compose.ui_ui-uikit-cinterop-utils-aNVDjg.klib",
+    "sourceSetName": "uikitMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-network:2.3.12",
+    "file": "/Users/sanlyozgerish/AndroidStudioProjects/WialonLocal/.kotlin/metadata/kotlinTransformedCInteropMetadataLibraries/io.ktor-ktor-network-2.3.12-iosMain-cinterop/io.ktor_ktor-network-cinterop-network-L-co_w.klib",
+    "sourceSetName": "iosMain"
+  }
+]

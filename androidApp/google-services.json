@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712117023433",
+    "project_id": "wialonlocal-54fe5",
+    "storage_bucket": "wialonlocal-54fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712117023433:android:b9ccafc483a71065c59318",
+        "android_client_info": {
+          "package_name": "com.gs.wialonlocal.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1neKByhEwp6nHdW8cqjxGhwmxbaWE3Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
