@@ -38,7 +38,7 @@ A powerful and flexible GPS tracking application built with Kotlin Compose Multi
 ## Demo Video
 Watch a full demonstration of the app on Google Drive:
 
-[![GPS Tracking System Demo](https://play-lh.googleusercontent.com/j5Gtpkih2WI7-8GvEXTOkleLaSWzShvjcgzXZJM_1shIV8EgLoJox4AOD8bIVsHO6KgW=w240-h480)
+![GPS Tracking System Demo](https://play-lh.googleusercontent.com/j5Gtpkih2WI7-8GvEXTOkleLaSWzShvjcgzXZJM_1shIV8EgLoJox4AOD8bIVsHO6KgW=w240-h480)
 
 Click the image or [here](https://drive.google.com/file/d/1m2QY3V9-CdBa9eMDgXSvInk-jFHGPlhz/view?usp=sharing) to watch the demo.
 
